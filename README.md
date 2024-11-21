@@ -1,4 +1,4 @@
-## Multi Module Navigation CMP
+## Multi Module Navigation
 
 This is a Kotlin Multiplatform navigation project targeting Android, iOS.
 
