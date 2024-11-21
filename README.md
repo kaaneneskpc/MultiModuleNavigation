@@ -18,6 +18,7 @@ This is a Kotlin Multiplatform navigation project targeting Android, iOS.
 
 ### Android
 
+[Screen_recording_20241122_004924.webm](https://github.com/user-attachments/assets/e23af458-42b1-4717-ba98-448153aa4aaa)
 
 ### Ios
 
