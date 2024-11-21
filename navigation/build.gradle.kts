@@ -41,6 +41,10 @@ kotlin {
             implementation(libs.kotlinx.serialization)
 
             implementation(project(path = ":feature:settings"))
+            implementation(project(path = ":feature:joke"))
+            implementation(project(path = ":feature:home"))
+            implementation(project(path = ":feature:details"))
+            implementation(project(path = ":feature:saved"))
         }
     }
 }

@@ -50,6 +50,8 @@ kotlin {
             implementation(libs.koin.compose)
 
             implementation(project(path = ":navigation"))
+            implementation(project(path = ":shared"))
+            implementation(project(path = ":di"))
         }
     }
 }

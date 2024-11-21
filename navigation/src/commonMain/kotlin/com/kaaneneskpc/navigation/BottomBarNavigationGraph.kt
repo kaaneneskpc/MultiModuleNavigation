@@ -9,13 +9,17 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.navigation
 import androidx.navigation.toRoute
+import com.kaaneneskpc.details.DetailsScreen
+import com.kaaneneskpc.home.HomeScreen
+import com.kaaneneskpc.saved.SavedScreen
+import com.kaaneneskpc.joke.JokeScreen
 
 @Composable
 fun BottomBarNavigationGraph(
     navController: NavHostController,
     paddingValues: PaddingValues
 ) {
-    /* NavHost(
+    NavHost(
         modifier = Modifier
             .padding(
                 top = paddingValues.calculateTopPadding(),
@@ -52,5 +56,5 @@ fun BottomBarNavigationGraph(
         composable<Screen.Joke> {
             JokeScreen()
         }
-    } */
+    }
 }
