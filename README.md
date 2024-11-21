@@ -22,5 +22,8 @@ This is a Kotlin Multiplatform navigation project targeting Android, iOS.
 
 ### Ios
 
+https://github.com/user-attachments/assets/440a3c9b-a298-457b-88c1-dedd4b6cb204
+
+
 
 
